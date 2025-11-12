@@ -13,4 +13,4 @@ def osszegzo(szamok_listaja):
     
     return osszeg
     
-sum_uf_num = osszegzo(szamok_listaja__)
+sum_of_num = osszegzo(szamok_listaja__)
