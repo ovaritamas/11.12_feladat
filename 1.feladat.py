@@ -14,3 +14,5 @@ def osszegzo(szamok_listaja):
     return osszeg
     
 sum_of_num = osszegzo(szamok_listaja__)
+
+print(osszegzo(szamok_listaja__))
