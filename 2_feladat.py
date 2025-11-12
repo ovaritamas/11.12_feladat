@@ -9,8 +9,7 @@ lista = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 def paros_e(szamok):
     for szam in szamok:
         if szam % 2 == 0:
-            print(f'True')
-        else:
-            print('False')
+            return True
+    return False    
 
 parok = paros_e(lista)
